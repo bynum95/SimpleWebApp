@@ -107,7 +107,6 @@ function hangman() {
   }
 }
 
-//Nolan
 function initialize(){
   console.log('');
   console.log('------------------');
@@ -147,10 +146,7 @@ function initialize(){
   
 }
 
-//test callback for Initalize
-//Initialize();
-
-//Tierra           
+          
 
 // playing the game print
 // game is over and winner is true
